@@ -7,10 +7,10 @@ var ufolaser
 var edges
 
 function preload() {
-  bg = loadImage("Assets/Space Bg.jpeg");
-  rocketImg = loadImage("Assets/Rocket.png");
-  laser_Img = loadImage("Assets/Laser.png");
-  ufo_Img = loadImage("Assets/UFO.png");
+  bg = loadImage("Space Bg.jpeg");
+  rocketImg = loadImage("Rocket.png");
+  laser_Img = loadImage("Laser.png");
+  ufo_Img = loadImage("UFO.png");
 }
 
 function setup() {
